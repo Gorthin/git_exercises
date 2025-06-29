@@ -1,0 +1,2 @@
+DEFAULT_MUL = 100
+SEED = 50
